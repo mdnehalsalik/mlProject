@@ -1,9 +1,9 @@
-We have created a different folder for each model.
+Group Authors: Md Nehal Salik,Tony Geglio, Alex Putman
+Its a group project and we have created a different folder for each model.
+Its an image classification project involving the bee image classification into different kind of bee.
 
-Group Authors: Tony Geglio, Alex Putman, Md Nehal Salik
-Team Name: Bee
 
-Instructions how to Reproduce the results:
+# Instructions how to Reproduce the results:
 
 EDA - Run Jupyter Notebook, data is in the EDA folder
 
